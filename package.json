@@ -4,7 +4,8 @@
   "private": true,
   "description": "",
   "peerDependencies": {
-    "trunx": "0.26.0"
+    "node-sass": "*",
+    "trunx": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
