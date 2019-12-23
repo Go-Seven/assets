@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "description": "",
+  "peerDependencies": {
+    "trunx": "0.26.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/go-seven/assets.git"
   },
-  "keywords": [],
+  "keywords": [
+    "bulma",
+    "sass",
+    "trunx"
+  ],
   "author": "Gianluca Casati (http://g14n.info)",
   "license": "MIT",
   "bugs": {
