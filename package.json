@@ -1,0 +1,20 @@
+{
+  "name": "go-seven-assets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-seven/assets.git"
+  },
+  "keywords": [],
+  "author": "Gianluca Casati (http://g14n.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/go-seven/assets/issues"
+  },
+  "homepage": "https://go7.li"
+}

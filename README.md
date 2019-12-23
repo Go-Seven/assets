@@ -1,1 +1,1 @@
-# assets
+# Go Seven assets
